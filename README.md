@@ -1,4 +1,4 @@
-# 🤖 Transformer Architecture from Scratch — PyTorch
+# 🤖 Transformer Architecture from Scratch - PyTorch
 
 Complete Transformer encoder-decoder implemented from scratch using pure PyTorch.
 No high-level abstractions — just math and `torch.nn`.
@@ -48,7 +48,7 @@ PyTorch · HuggingFace Datasets · GLUE SST-2 · BERT Tokenizer
 
 ## Reference
 
-Vaswani et al. (2017) — [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+Vaswani et al. (2017) - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ## Files
 
