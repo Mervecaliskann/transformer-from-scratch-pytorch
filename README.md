@@ -53,4 +53,4 @@ PyTorch · HuggingFace Datasets · GLUE SST-2 · BERT tokenizer
 
 ## Files
 
-`Transformer_Mimarisi_Sifirdan.ipynb` — the full notebook, with Turkish/English comments.
+`Transformer_Mimarisi_Sifirdan.ipynb` - the full notebook, with Turkish/English comments.
